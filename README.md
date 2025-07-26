@@ -39,7 +39,7 @@
 
 ## SETTING UP SOUNDNESS LAYER
 
-> ⚠️ Paste the commands **one by one**. Wait for one to finish before pasting the next.
+> ⚠️ Paste the commands **one by one in terminal **. Wait for one to finish before pasting the next.
 
 Open the terminal like this:
 
